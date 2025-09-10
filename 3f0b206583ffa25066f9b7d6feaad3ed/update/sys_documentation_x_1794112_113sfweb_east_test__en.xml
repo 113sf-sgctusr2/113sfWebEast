@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="East_Test" language="en" table="x_1794112_113sfweb_east_test">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>East_Test</label>
+            <language>en</language>
+            <name>x_1794112_113sfweb_east_test</name>
+            <plural>East_Tests</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-05 01:48:12</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>East_Test</sys_name>
+            <sys_package display_value="113sfWebEast" source="x_1794112_113sfweb">3f0b206583ffa25066f9b7d6feaad3ed</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="113sfWebEast">3f0b206583ffa25066f9b7d6feaad3ed</sys_scope>
+            <sys_update_name>sys_documentation_x_1794112_113sfweb_east_test__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-05 01:48:12</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
