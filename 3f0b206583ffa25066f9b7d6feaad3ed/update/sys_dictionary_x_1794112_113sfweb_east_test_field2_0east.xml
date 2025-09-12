@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="u_field3" table="x_1794112_113sfweb_east_test">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="field2_0east" table="x_1794112_113sfweb_east_test">
         <active>true</active>
         <array>false</array>
         <attributes/>
@@ -13,7 +13,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Field3</column_label>
+        <column_label>Field2.0East</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -26,7 +26,7 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>u_field3</element>
+        <element>field2_0east</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <formula/>
@@ -34,7 +34,7 @@
         <function_field>false</function_field>
         <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
-        <max_length>35</max_length>
+        <max_length>200</max_length>
         <name>x_1794112_113sfweb_east_test</name>
         <next_element/>
         <primary>false</primary>
@@ -51,14 +51,14 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-09-05 01:52:19</sys_created_on>
-        <sys_name>Field3</sys_name>
+        <sys_created_on>2025-09-12 01:34:28</sys_created_on>
+        <sys_name>Field2.0East</sys_name>
         <sys_package display_value="113sfWebEast" source="x_1794112_113sfweb">3f0b206583ffa25066f9b7d6feaad3ed</sys_package>
         <sys_policy/>
         <sys_scope display_value="113sfWebEast">3f0b206583ffa25066f9b7d6feaad3ed</sys_scope>
-        <sys_update_name>sys_dictionary_x_1794112_113sfweb_east_test_u_field3</sys_update_name>
+        <sys_update_name>sys_dictionary_x_1794112_113sfweb_east_test_field2_0east</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-09-12 01:36:19</sys_updated_on>
+        <sys_updated_on>2025-09-12 01:34:28</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
